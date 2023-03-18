@@ -46,11 +46,7 @@ public class switch_case {
 		default:
 			System.out.println("Mes de Dezembro");
 			break;
-		default:
-			System.out.println("Mes de Dezembro");
-			break;
 			
-		
 		}
 }
 }
